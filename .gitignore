@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Java build
+target/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
